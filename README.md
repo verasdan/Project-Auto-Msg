@@ -13,8 +13,6 @@
 
 </p>
 
-### STATUS
-
 <h4 align="center"> 
 	 ♻️ Concluído
 </h4>
